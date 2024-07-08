@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction2](README.md)
+* [Introduction](README.md)
 * [Project Overview](chapter\_2.md)
 * [Problem Statement](chapter\_3.md)
 * [Architecture of The Adventure Layer](chapter\_4.md)
